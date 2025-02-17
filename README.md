@@ -8,30 +8,28 @@ This project is a Splitwise Clone, designed to simplify expense tracking and gro
 
 # Prerequisites
 
-Java 11 or higher
+[Java 11 or higher](#Java 11 or higher)
 
-Node.js (if using React for frontend)
+[MySQL Server](#MySQL Server)
 
-MySQL Server
+[Maven](#Maven)
 
-Maven
-
-Git
+[Git](#Git)
 
 # Steps to Run the Project
 
-# Clone the repository:
+### Clone the repository:
 
-clone the git repo link
+clone the git repo link\
 cd splitwise-clone
 
-# Configure the database connection in src/main/resources/application.properties:
+### Configure the database connection in src/main/resources/application.properties:
 
 spring.datasource.url=jdbc:mysql://localhost:3306/splitwise
 spring.datasource.username=root
 spring.datasource.password=yourpassword
 
-# Build and run the backend:
+### Build and run the backend:
 mvn spring-boot:run
 
 
