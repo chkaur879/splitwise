@@ -8,9 +8,9 @@ This project is a Splitwise Clone, designed to simplify expense tracking and gro
 
 # Prerequisites
 
-[Java 11 or higher](#Java 11 or higher)
+[Java 11 or higher](#Java-11-or-higher)
 
-[MySQL Server](#MySQL Server)
+[MySQL Server](#MySQL-Server)
 
 [Maven](#Maven)
 
