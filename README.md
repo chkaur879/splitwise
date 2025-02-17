@@ -1,12 +1,12 @@
-#Splitwise Clone
+# Splitwise Clone
 
-#Overview
+# Overview
 
 This project is a Splitwise Clone, designed to simplify expense tracking and group bill splitting among users. It allows users to create groups, add expenses, split payments, and settle balances efficiently.
 
-#Installation & Setup
+# Installation & Setup
 
-#Prerequisites
+# Prerequisites
 
 Java 11 or higher
 
@@ -18,32 +18,32 @@ Maven
 
 Git
 
-#Steps to Run the Project
+# Steps to Run the Project
 
-#Clone the repository:
+# Clone the repository:
 
 clone the git repo link
 cd splitwise-clone
 
-#Configure the database connection in src/main/resources/application.properties:
+# Configure the database connection in src/main/resources/application.properties:
 
 spring.datasource.url=jdbc:mysql://localhost:3306/splitwise
 spring.datasource.username=root
 spring.datasource.password=yourpassword
 
-#Build and run the backend:
+# Build and run the backend:
 mvn spring-boot:run
 
 
-#Contributing
+# Contributing
 
 Feel free to submit issues and pull requests. Ensure your code follows the project’s coding standards.
 
-#License
+# License
 
 This project is licensed under the MIT License.
 
-#Contact
+# Contact
 
-For any inquiries, reach out to your-email@example.com or visit the project repository at GitHub.
+For any inquiries, reach out to ch.kaur879@gmail.com or visit the project repository at GitHub.
 
